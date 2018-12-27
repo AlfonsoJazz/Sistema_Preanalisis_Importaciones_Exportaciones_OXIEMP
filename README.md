@@ -13,6 +13,6 @@ Con el uso de la librería [SpreadsheetLight for .Net Framework](http://spreadsh
 
 ![Extraccion de fragmentos de tablas en forma de reportes de excel](/OXIEMP_captures/OXIEMP-Reportes-aspx.png "Página de reportes")
 
-El sitio realiza el pre render de manera inteligente validando los datos que faltan por capturar o los que están erróneos, de manera que el usuario solo pueda modificar aquellos que lo necesitan, todo esto llamando procedimientos almacenados. Al momento de capturar, se llenan múltiples tablas de-para a la vez con la finalidad de hacer más inteligente el proceso de corrección en las próximas capturas.
+El sitio realiza el pre render inteligentemente validando los datos que faltan por capturar o los que están erróneos, de manera que el usuario solo pueda modificar aquellos que lo necesitan, todo esto llamando procedimientos almacenados. Al momento de capturar, se llenan múltiples tablas de-para a la vez con la finalidad de hacer más inteligente el proceso de corrección en las próximas capturas.
 ![Pre análisis de Exportaciones](/OXIEMP_captures/OXIEMP-preanalisis_exp-aspx-2.png "Preanálisis exportaciones")
       
