@@ -6,5 +6,4 @@
 
 Este sitio web tiene como objetivo agilizar el proceso de pre análisis de los datos brindados sobre el SAT para su procesamiento final y posteriormente ser presentados con gráficos en Tableu. Lo cual ayuda a tomar mejores decisiones de compra venta de mercancías y el comportamiento del mercado.
 
-![Login por medio de usuarios del dominio de Windows](Sistema_Preanalisis_Importaciones_Exportaciones_OXIEMP/OXIEMP_captures/OXIEMP-Account-Login-aspx.png"Login")
-![Texto alternativo](/OXIEMP_captures/OXIEMP-Account-Login-aspx.png)
+![Login por medio de usuarios del dominio de Windows](/OXIEMP_captures/OXIEMP-Account-Login-aspx.png "Login por medio de Usuarios del dominio de red de Windows")
