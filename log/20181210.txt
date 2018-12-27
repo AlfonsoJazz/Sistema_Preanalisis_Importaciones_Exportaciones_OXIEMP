@@ -1,0 +1,36 @@
+ASP.account_login_aspx 09:12:40
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.account_login_aspx 09:48:32
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.account_login_aspx 10:33:03
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.account_login_aspx 11:16:36
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.preanalisis_imp_aspx 12:01:34
+Renderiza_Clasificacion - Procedure or function 'usp_OXIEMP_Genera_Lista_Clasificacion' expects parameter '@FAMILIA', which was not supplied.
+
+ASP.preanalisis_imp_aspx 12:01:39
+Renderiza_Prod_Identificados - Procedure or function 'usp_OXIEMP_Genera_Lista_ProductosIdentificados' expects parameter '@FAMILIA', which was not supplied.
+
+ASP.preanalisis_imp_aspx 12:08:56
+Renderiza_Prod_Identificados - Procedure or function 'usp_OXIEMP_Genera_Lista_ProductosIdentificados' expects parameter '@FAMILIA', which was not supplied.
+
+ASP.account_login_aspx 13:43:06
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.account_login_aspx 13:59:04
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.preanalisis_imp_aspx 14:07:50
+ddFamilias_SelectedIndexChanged - Conversion from string "Familia_Seleccionada" to type 'Integer' is not valid.
+
+ASP.preanalisis_imp_aspx 14:08:04
+ddFamilias_SelectedIndexChanged - Conversion from string "Familia_Seleccionada" to type 'Integer' is not valid.
+
+ASP.account_login_aspx 14:57:09
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+

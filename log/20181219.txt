@@ -1,0 +1,36 @@
+ASP.account_login_aspx 10:06:28
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.preanalisis_exp_aspx 10:07:13
+Renderiza_DropDownList - There is already an open DataReader associated with this Command which must be closed first.
+
+ASP.preanalisis_exp_aspx 10:11:24
+Renderiza_DropDownList - There is already an open DataReader associated with this Command which must be closed first.
+
+ASP.preanalisis_exp_aspx 10:16:10
+Renderiza_DropDownList - Data source is an invalid type.  It must be either an IListSource, IEnumerable, or IDataSource.
+
+ASP.preanalisis_exp_aspx 10:20:40
+Renderiza_DropDownList - Unable to cast object of type 'System.Data.DataColumn' to type 'System.Data.DataRow'.
+
+ASP.account_login_aspx 11:03:33
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.site_master 11:09:34
+NavigationMenu_MenuItemClick - El usuario Jose Alfonso Mosco Herrera ha cerrado sesión con éxito
+
+ASP.account_login_aspx 11:45:46
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.site_master 11:49:58
+NavigationMenu_MenuItemClick - El usuario Jose Alfonso Mosco Herrera ha cerrado sesión con éxito
+
+ASP.account_login_aspx 11:51:31
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.site_master 11:51:50
+NavigationMenu_MenuItemClick - El usuario Jose Alfonso Mosco Herrera ha cerrado sesión con éxito
+
+ASP.account_login_aspx 11:52:37
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+

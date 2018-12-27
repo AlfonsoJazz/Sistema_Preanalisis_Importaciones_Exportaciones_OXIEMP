@@ -1,0 +1,74 @@
+ASP.account_login_aspx 09:27:38
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.account_login_aspx 11:45:44
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.preanalisis_imp_aspx 11:51:03
+Firmar_ConSangre_Click - ExecuteScalar requires an open and available Connection. The connection's current state is closed.
+
+ASP.preanalisis_imp_aspx 11:52:53
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 11:54:49
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:01:47
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:05:07
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:05:51
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:12:34
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:14:02
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:15:38
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:22:05
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:23:41
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:27:27
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:36:03
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:36:59
+Firmar_ConSangre_Click - Cannot roll back UPDATE_IMP_PA. No transaction or savepoint of that name was found.
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 2.
+
+ASP.preanalisis_imp_aspx 12:46:42
+Firmar_ConSangre_Click - Cannot insert the value NULL into column 'OXIMP012_GrupoNegoio_ST', table 'ZOXIMPEXP.dbo.OXIMP012_DePara_ImportadorHomologado'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ASP.account_login_aspx 13:40:53
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.account_login_aspx 14:29:16
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.site_master 14:32:34
+NavigationMenu_MenuItemClick - El usuario Jose Alfonso Mosco Herrera ha cerrado sesión con éxito
+

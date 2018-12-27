@@ -1,0 +1,58 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeFile="Site.Master.vb" Inherits="Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>OXIEMP | Sistema para el pre-análisis de Importaciones y Exportaciones Oxiteno</title>
+    <meta name="generator" content="José Alfonso Mosco H. - Becario de Negocios de TI"/>
+    <link rel="shorcut icon" href="uiResources/Favicon_Oxiteno.ico" />
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    Sistema para el pre-anális de Importaciones y Exportaciones
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:Image ID="Oxiteno_Logo" runat="server" 
+                    ImageUrl="~/uiResources/OxitenoAzul.gif" Width="200px" />
+                <br />
+                Bienvenido:
+                <asp:Literal ID="UserName" runat="server"></asp:Literal>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" 
+                    EnableViewState="False" IncludeStyleBlock="False" Orientation="Horizontal" 
+                    StaticSubMenuIndent="16px">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Inicio" Value="Inicio"/>
+                        <asp:MenuItem Text="Importaciones Pre análisis" 
+                            Value="Importaciones Pre análisis" NavigateUrl="~/preanalisis_imp.aspx"/>
+                        <asp:MenuItem Text="Exportaciones Pre análisis" 
+                            Value="Exportaciones Pre análisis" NavigateUrl="~/preanalisis_exp.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Reportes" Value="Reportes" NavigateUrl="~/Reportes.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Cerrar Sesión" Value="Cerrar Sesión"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+         Oxiteno México 2018  | Negocios TI 
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,37 @@
+ASP.account_login_aspx 13:10:52
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.preanalisis_imp_aspx 13:32:14
+ButtonConsulta_Click - DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'OXEXP004_ID_IN'.
+
+ASP.account_login_aspx 14:01:49
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.account_login_aspx 14:26:51
+Autentica - El usuario Jose Alfonso Mosco Herrera accedió al sistema
+
+ASP.preanalisis_imp_aspx 14:27:06
+ButtonConsulta_Click - Unable to cast object of type 'System.Web.UI.WebControls.ButtonField' to type 'System.Web.UI.WebControls.DataGridColumn'.
+
+ASP.preanalisis_imp_aspx 14:31:52
+ButtonConsulta_Click - Unable to cast object of type 'System.Web.UI.WebControls.ButtonField' to type 'System.Web.UI.WebControls.DataGridColumn'.
+
+ASP.preanalisis_imp_aspx 14:40:14
+ButtonConsulta_Click - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ASP.preanalisis_imp_aspx 14:41:06
+ButtonConsulta_Click - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ASP.preanalisis_imp_aspx 14:42:44
+ButtonConsulta_Click - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ASP.preanalisis_imp_aspx 14:51:10
+ButtonConsulta_Click - Collection was modified; enumeration operation may not execute.
+
+ASP.preanalisis_imp_aspx 14:54:59
+ButtonConsulta_Click - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
